@@ -1,11 +1,7 @@
 <h1 align="left">🏄 WhaleMac</h1>
 
 ###
-
-<div align="left">
-  <img height="150" src="https://media.giphy.com/media/M9g b   B d9  nb D r O T u 1 Mqx/giphy.gif"  />
-</div>
-
+![image](OYejvH0n.jpg)
 ###
 
 <div align="left">
