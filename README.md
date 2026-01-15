@@ -22,10 +22,6 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
 <h5 align="left">🎓 Academic Status: 2nd Year BSIT Student.<br><br>🛠 Background: Former Technical Support Representative with 1 year of BPO experience.<br><br>🔭 Core Focus: Bridging the gap between Hardware and Software.<br><br>🌱 Current Goals: Mastering Networking infrastructure and Web Development.<br><br> 🧘  Personal Philosophy: Finding clarity through meditation and mindfulness.</h5>
 
 ###
