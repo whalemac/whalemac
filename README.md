@@ -4,7 +4,6 @@
 ![image](OYejvH0n.jpg)
 ###
 
-<div align="left">
   <a href="https://www.linkedin.com/in/mc-xyn-kenneth-cabanes-57b920312/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -14,7 +13,6 @@
   <a href="https://discord.com/users/mcxyn123" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
-</div>
 
 ###
 
