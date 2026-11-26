@@ -1,7 +1,7 @@
 <h1 align="left">🏄 WhaleMac</h1>
 
 ###
-![image](OYejvH0n.jpg)
+![image](pic.jpg)
 ###
 
 <div align="left">
